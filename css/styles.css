@@ -8,6 +8,7 @@ body{
 	background: rgba(75,75,75,0.6);
 	color: #ccc;
 	padding: 50px;
+	height: auto;
 }
 .carousel {
   /*height: 500px; OLD*/
