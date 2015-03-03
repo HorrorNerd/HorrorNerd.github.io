@@ -5,5 +5,8 @@ body{
 .col-md-3{
 	border: 1px solid darkred;
 	border-radius: 5px;
-	background: #ccc;
+	background: #333333;
+}
+.carousel-control {
+top: 300px;
 }
