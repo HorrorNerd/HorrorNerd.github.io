@@ -2,7 +2,7 @@ body{
 	margin-bottom:80px;
 }
 
-.row{
+.col-md-3{
 	border: 1px solid darkred;
 	border-radius: 5px;
 	background: #ccc;
