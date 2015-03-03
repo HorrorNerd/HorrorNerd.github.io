@@ -6,7 +6,5 @@ body{
 	border: 1px solid darkred;
 	border-radius: 5px;
 	background: #333333;
-}
-.carousel-control {
-top: 300px;
+	color: #ccc;
 }
