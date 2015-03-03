@@ -4,13 +4,8 @@ body{
 .containerCarousel{
 	margin: 0 auto;
 }
-.center-block {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 .row{
-	border: 2px solid darkred;
+	border: 1px solid darkred;
 	border-radius: 10px;
 	background: #ccc;
 }
