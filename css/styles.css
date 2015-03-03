@@ -1,5 +1,5 @@
 body{
-	margin-bottom:0px;
+	margin-bottom: 0px;
 }
 
 .col-md-3{
@@ -7,7 +7,7 @@ body{
 	border-radius: 5px;
 	background: #333333;
 	color: #ccc;
-	padding: 5px;
+	padding: 50px;
 }
 .carousel {
   /*height: 500px; OLD*/
@@ -21,7 +21,7 @@ body{
     /*height: 500px; OLD*/
     /*background-color: #777; OLD*/
 
-    width:50%;
+    width:100%;
     height:auto;
 }
 .carousel-inner > .item > img {
@@ -29,6 +29,6 @@ body{
   /*top: 0; OLD+WHY?*/
   /*left: 0; OLD+WHY?*/
 
-  min-width:50%;
+  min-width:100%;
   height:auto;
 }
