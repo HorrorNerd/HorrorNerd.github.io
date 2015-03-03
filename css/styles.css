@@ -4,3 +4,8 @@ body{
 .containerCarousel{
 	margin:0 auto;
 }
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
