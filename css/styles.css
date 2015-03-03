@@ -9,3 +9,10 @@ body{
 	color: #ccc;
 	padding: 5px;
 }
+.carousel-inner > .item > img {
+   position: absolute;
+   top: 0;
+   left: 0;
+   min-width: 100%;
+   min-height: 500px; /* <--- Change this line to min-height */
+ }
