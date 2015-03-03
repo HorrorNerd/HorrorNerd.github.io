@@ -21,7 +21,7 @@ body{
     /*height: 500px; OLD*/
     /*background-color: #777; OLD*/
 
-    width:100%;
+    width:50%;
     height:auto;
 }
 .carousel-inner > .item > img {
@@ -29,6 +29,6 @@ body{
   /*top: 0; OLD+WHY?*/
   /*left: 0; OLD+WHY?*/
 
-  min-width:100%;
+  min-width:50%;
   height:auto;
 }
